@@ -13,6 +13,7 @@ This project is a static website hosted on AWS S3, showcasing my skills in web d
 - **AWS S3**: For static file hosting.
 - **AWS Route 53**: For domain name system (DNS) management.
 - **AWS Certificate Manager (ACM)**: For SSL certificate management.
+- **AWS CloudFront**: For faster content delivery.
 - **GoDaddy**: For domain registration.
 
 ## Installation Instructions
