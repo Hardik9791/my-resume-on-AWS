@@ -19,6 +19,9 @@ This project is a static website hosted on AWS S3, showcasing my skills in web d
 ## Installation Instructions
 To view the website locally, you can clone this repository and open the `index.html` file in your browser.
 
+## URL
+Access the weibsite https://hardikaws.online
+
 ```bash
 git clone https://github.com/hardik9791/my-static-website.git
 cd my-static-website
