@@ -21,6 +21,7 @@ To view the website locally, you can clone this repository and open the `index.h
 
 ## URL
 Access the weibsite https://hardikaws.online
+Using Github URL: https://hardik9791.github.io/my-resume-on-AWS/
 
 ```bash
 git clone https://github.com/hardik9791/my-static-website.git
