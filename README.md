@@ -1,7 +1,7 @@
 # my-resume-on-AWS
 
 ## Overview
-This project is a static website hosted on AWS S3, showcasing my skills in web development and cloud infrastructure. The website includes HTML, CSS, and JavaScript files, and is configured for public access with SSL encryption.
+This project is a static website hosted on AWS S3, showcasing my web development and cloud infrastructure skills. The website includes HTML, CSS, and JavaScript files, and is configured for public access with SSL encryption.
 
 ## Features
 - **Responsive Design**: The website is designed to be responsive and works seamlessly on various devices.
